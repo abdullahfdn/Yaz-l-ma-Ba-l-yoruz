@@ -1,2 +1,2 @@
-# Yaz-l-ma-Ba-l-yoruz
+# Yazilima_Basliyoruz
 kodların paylaşıldığı ortam
